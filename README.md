@@ -28,10 +28,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Ceasardape | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ceasardape | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ceasarg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ceasardape | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ceasardape | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="background-color:white; padding:2px; border-radius:50%;" />][youtube]
+[<img align="left" alt="Ceasardape | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color:white; padding:2px; border-radius:50%;" />][twitter]
+[<img align="left" alt="Ceasarg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white; padding:2px; border-radius:50%;" />][linkedin]
+[<img align="left" alt="Ceasardape | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="background-color:white; padding:2px; border-radius:50%;" />][instagram]
+
 
 [twitter]: https://twitter.com/Ceasardape
 [youtube]: https://www.youtube.com/c/Ceasardape
